@@ -29,7 +29,7 @@
         "first-question-set": {
             "type": "image",
             "path": "pilot_v1/assets/PCP_hard.jpg",
-            "instruction": "This parallel coordinate plot displays information from the 2004 US presidential election that includes records of voters’ demographics including the names of three political candidates. The data variables are presented as state name. candidates Bush, Kerry, and Nader the total number of votes, rent in US Dollars, unemployment, and obesity rates. Which variable has an indirect correlation with the unemployment rate?",
+            "instruction": "This parallel coordinate plot displays information from the 2004 US presidential election that includes records of voters’ demographics including the names of three political candidates. The data variables are presented as state name, candidates Bush, Kerry, and Nader, the total number of votes, rent in US Dollars, unemployment, and obesity rates. Which variable has an indirect correlation with the unemployment rate?",
             "style": {
                 "width": "800px"
             },
@@ -54,7 +54,7 @@
         "second-question-set": {
             "type": "image",
             "path": "pilot_v1/assets/PCP_easy.jpg",
-            "instruction": "This parallel coordinate plot displays information from the 2004 US presidential election that includes records of voters’ demographics including the names of three political candidates. The data variables are presented as state name. candidates Bush, Kerry, and Nader the total number of votes, rent in US Dollars, unemployment, and obesity rates. Which variable has an indirect correlation with the unemployment rate?",
+            "instruction": "The image shows information about coal-mining disasters for over a century. Each polyline represents one coal disaster with information such as a month of the accident, year of the accident, day of the year, intervals between coal mining disasters, and the number of deaths. Approximately, what is the range of values for the year attribute?",
             "style": {
                 "width": "800px"
             },
