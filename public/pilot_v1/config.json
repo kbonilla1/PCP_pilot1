@@ -12,7 +12,12 @@
             "WPI"
         ]
     },
+    "importedLibraries": [
+        "screen-recording"
+    ],
     "uiConfig": {
+        "recordScreen": true,
+        "recordAudio": true,
         "contactEmail": "kbonilla@wpi.edu",
         "helpTextPath": "pilot_v1/assets/help.md",
         "logoPath": "revisitAssets/revisitLogoSquare.svg",
@@ -81,6 +86,7 @@
     "order": "fixed",
     "components": [
         "introduction",
+        "$screen-recording.co.screenRecordingPermission",
         "first-question-set",
         "second-question-set"
         ]
