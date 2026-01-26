@@ -1,0 +1,3 @@
+# Introduction
+
+Welcome to our study. The goal is to understand what your steps are when anwering questions using parallel coordinate plots, so you will be asked to think aloud (verbally narrate the different steps you take and what you are thinking) while you complete these questions. Please make sure that you are able to use your microphone. We will also record your screen to be able to see where you click and what actions you take. Thank you for participating in this study
